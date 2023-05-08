@@ -141,7 +141,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-condensed"
-                android:inputType="textEmailAddress"
+                android:inputType="textPassword"
                 android:singleLine="true"
                 android:textColor="@color/black" />
 
@@ -162,7 +162,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-condensed"
-                android:inputType="textEmailAddress"
+                android:inputType="textPassword"
                 android:singleLine="true"
                 android:textColor="@color/black" />
 
