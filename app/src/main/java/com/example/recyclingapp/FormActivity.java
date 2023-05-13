@@ -37,9 +37,6 @@ public class FormActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //remove ActionBar
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
-        getSupportActionBar().hide();
         setContentView(R.layout.formview);
 
         txtSignUp = findViewById(R.id.txtSignUp);//for registration Redirect
@@ -103,7 +100,7 @@ public class FormActivity extends AppCompatActivity {
 
                     if (!Objects.equals(passwordFromDB, userPassword)) {
                         loginName.setError(null);
-                        Intent intent = new Intent(FormActivity.this, MainActivity.class);
+                        Intent intent = new Intent(FormActivity.this, ChatFragment.class);
                         startActivity(intent);
                     } else {
                         loginPassword.setError("Invalid Credentials");

@@ -1,7 +1,16 @@
 package com.example.recyclingapp;
 
 public class HelperClass {
-    String name, email, phone, password, conpassword;
+
+    public static String SENT_BY_ME = "me";
+    public static String SENT_BY_BOT = "bot";
+
+    String name, email, phone, password, conpassword, message, sendby;
+
+    public HelperClass(String message, String sendby) {
+        this.message = message;
+        this.sendby = sendby;
+    }
 
     public HelperClass(String name, String email, String phone, String password, String conpassword) {
         this.name = name;
@@ -13,6 +22,22 @@ public class HelperClass {
 
     public HelperClass() {
 
+    }
+
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
+
+    public String getSendby() {
+        return sendby;
+    }
+
+    public void setSendby(String sendby) {
+        this.sendby = sendby;
     }
 
     public String getName() {
