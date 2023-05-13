@@ -1,3 +1,204 @@
 <resources>
-    <string name="app_name">RecyclingApp</string>
+    <string name="app_name">Eco-Mate</string>
+    <string name="article_plastic_bottles_and_containers">Plastic Bottles and Containers</string>
+    <string name="pbottles_paragraph">Plastic bottles and containers are commonly used packaging materials made from plastic. They are used to package a variety of products such as beverages, food, personal care items, and cleaning products. These bottles and containers are usually made from a type of plastic called polyethylene terephthalate (PET).
+\n\n
+Recycling plastic bottles and containers is important because it helps to conserve resources, reduce pollution, and save energy. The recycling process involves collecting used plastic bottles and containers, cleaning them, sorting them by type of plastic, shredding them into small pieces, melting them down, and then reforming the plastic into new products.
+\n\n
+
+\n<i>1. Look for the recycling symbol on the packaging to ensure it is recyclable.</i>
+\n<i>2. Rinse out the bottle or container to remove any remaining product.</i>
+\n<i>3. Remove any non-recyclable parts, such as the cap, and dispose of them properly.</i>
+\n<i>4. Place the bottle or container in your recycling bin or take it to a recycling center.</i>
+\n\n
+It is important to note that not all plastics are created equal, and some types of plastic are more difficult to recycle than others. It is also important to check with your local recycling program to determine which types of plastics they accept for recycling.
+</string>
+
+
+    <string name="article_metalCans">Metal Cans</string>
+    <string name="metalcans_paragraph">
+\n\n<b>Collection:</b> Metal cans are collected from households, businesses, and other sources
+\n\n<b>Sorting:</b> The metal cans are sorted by type, typically into aluminum and steel cans.
+\n\n<b>Shredding and melting:</b> The cans are shredded into small pieces and then melted down in a furnace to create new metal.
+\n\n<b>Refining:</b> The molten metal is refined to remove impurities and create a high-quality metal.
+\n\n<b>Molding:</b> The metal is then molded into new products, such as new metal cans, car parts, or other metal products.
+\n\n\n
+It is important to note that metal cans should be rinsed out and any food residue removed before recycling. This helps prevent contamination and ensures that the metal can be recycled efficiently. Additionally, metal recycling is often available at local recycling centers or as part of curbside recycling programs.</string>
+
+    <string name="article_paper">Paper</string>
+    <string name="paper_paragraph">Paper is a material made from wood pulp or other fibers, and it is used for a variety of purposes such as writing, printing, packaging, and more. It is a widely used commodity around the world, and unfortunately, paper production can have a significant impact on the environment. However, recycling paper can help reduce this impact by conserving resources and reducing waste. \n
+\n\n\n<b>Collection:</b> Paper products are collected and sorted into different grades based on their quality and the type of fiber used.
+\n\n<b>Pulping:</b> The paper is then mixed with water and chemicals to break down the fibers into a pulp.
+\n\n<b>Screening:</b> The pulp is screened to remove any contaminants like staples or glue.
+\n\n<b>Cleaning:</b> The pulp is cleaned to remove any remaining impurities and any ink or other coatings are removed.
+\n\n<b>Refining:</b> The pulp is refined to improve its quality and strength.
+\n\n<b>Papermaking:</b> The refined pulp is then made into new paper products, such as office paper, newspapers, and packaging materials.
+\n\n\n
+By recycling paper, we can save energy, reduce greenhouse gas emissions, conserve resources, and reduce the amount of waste that goes into landfills. It is important to note that not all types of paper can be recycled, so it is important to check with your local recycling program to determine what types of paper are accepted in your area.</string>
+
+    <string name="article_glassbttls">Glass Bottles and Jars</string>
+    <string name="glassbttls_paragraph">Glass bottles and jars are containers made of glass that are used to store and transport various liquids and solids. They are commonly used for holding food and beverages, such as wine, beer, juice, and sauces, as well as for cosmetics and other household products.\n
+\n\nRecycling glass bottles and jars is an important way to reduce waste and conserve natural resources. The process of recycling glass involves collecting the used bottles and jars, sorting them by color, and crushing them into small pieces, known as cullet. The cullet is then melted down and used to create new glass products.
+\n\nTo recycle glass bottles and jars, you can usually place them in your curbside recycling bin or take them to a recycling center. Before recycling, it is important to rinse out the bottles and jars to remove any remaining food or liquid, and to remove any caps or lids, which are typically made of a different material and should be recycled separately. \n
+\n\nIt is also important to note that not all glass can be recycled, such as glass from light bulbs, mirrors, and windowpanes. It is important to check with your local recycling program to determine what types of glass can be recycled in your area.
+
+</string>
+
+    <string name="article_PaperCrdbrd">Paper Cardboard</string>
+    <string name="papercrdbrd_paragraph">Paper cardboard is a type of packaging material that is commonly used for dairy and juice containers. It is a combination of paper and cardboard, and is designed to be strong, lightweight, and moisture-resistant.
+\n\n
+To recycle paper cardboard, you should first check with your local recycling program to determine if they accept this type of material. Many recycling programs do accept paper cardboard, but it is always best to check first.
+\n\n
+\n\nOnce you have determined that your recycling program accepts paper cardboard, you should rinse out any remaining liquid or food residue from the container. This will help to prevent contamination of the recycling process.
+\n\nNext, you should flatten the cardboard to save space in your recycling bin or bag. If the cardboard is too large to fit in your bin or bag, you can cut it into smaller pieces.
+\n\n
+Finally, place the cardboard in your recycling bin or bag and place it out for collection on your designated recycling day. The paper cardboard will be collected and taken to a recycling facility where it will be sorted, processed, and eventually turned into new products such as paper towels, tissue paper, or other paper-based products.
+</string>
+
+    <string name="article_gasoline">Gasoline </string>
+    <string name="gasoline_paragraph">Gasoline is a liquid fuel that is commonly used to power internal combustion engines in vehicles such as cars, motorcycles, and boats. It is a mixture of hydrocarbons and other chemicals that are refined from crude oil.
+\n\n
+When it comes to disposing of gasoline, it iss important to follow proper safety and environmental procedures. Gasoline is flammable and can be dangerous to handle, so it should never be disposed of in regular household trash or poured down the drain.
+\n\n
+Instead, you can take gasoline to a hazardous waste disposal facility or a local collection event for hazardous materials. Some gas stations and auto parts stores also offer recycling or disposal services for used gasoline. It is important to check with your local government or waste management authority for specific instructions on how to properly dispose of gasoline in your area.</string>
+
+    <string name="article_batteries">Lead-acid Batteries </string>
+    <string name="batteries_paragraph">Lead-acid batteries are a type of rechargeable battery that are commonly used in cars, trucks, boats, and other vehicles. They are made up of lead plates and an electrolyte solution, and work by converting chemical energy into electrical energy.
+\n
+When it comes to disposing of lead-acid batteries, it is important to do so safely and responsibly. These batteries contain hazardous materials, including lead and sulfuric acid, which can be harmful to the environment and to human health if they are not disposed of properly.
+\n\n
+Here are some guidelines for safely disposing of lead-acid batteries:\n
+\n<b>Recycling:</b> Lead-acid batteries are highly recyclable, and many recycling centers accept them. Recycling centers can safely extract the lead, plastic, and other materials from the battery for reuse.
+\n\n<b>Collection points:</b> Many stores that sell lead-acid batteries, such as auto parts stores, have collection points where you can drop off your old batteries for recycling.
+\n\n<b>Landfill disposal:</b> In some cases, it may be necessary to dispose of a lead-acid battery in a landfill. If this is the case, be sure to check with your local waste management agency for specific instructions on how to do so safely.
+\n\n\nIt is important to note that improper disposal of lead-acid batteries can lead to environmental contamination and health risks. So, it is important to dispose of them in a safe and responsible manner.</string>
+
+    <string name="article_aerosol">Pressurized Aerosol Can </string>
+    <string name="aerosol_paragraph">
+Pressurized aerosol cans are containers that use compressed gas to propel a liquid or fine mist, such as hairspray, paint, insecticide, or cooking spray. The pressure inside the can is what propels the product out of the nozzle when the valve is opened.
+\n\n
+When it comes to disposing of pressurized aerosol cans, it is essential to handle them with care as they are considered hazardous waste. The canisters should never be punctured, burned, or thrown into the regular trash, as they can potentially explode or release harmful chemicals into the environment.
+\n\n
+Instead, many local governments offer curbside recycling programs or drop-off locations for residents to dispose of aerosol cans safely. These facilities often require the cans to be empty and may have specific guidelines for preparation and disposal. It is also essential to check with the local recycling program before disposal to ensure that the aerosol can be recycled in your area. If recycling is not available, many household hazardous waste collection programs will accept aerosol cans for proper disposal.
+</string>
+
+
+    <string name="article_culturedishes">Culture Dishes </string>
+    <string name="culturedish_paragraph">Culture dishes are sterile containers used in laboratory settings to hold and grow microorganisms or cells. They are typically made of plastic or glass and are available in various sizes and shapes, depending on the type of experiment or application.
+\n\n
+The disposal of culture dishes depends on the nature of the material and the organisms or cells grown in them. In general, culture dishes contaminated with potentially hazardous biological materials such as pathogenic bacteria or viruses should be sterilized before disposal.
+\n\n
+Sterilization methods can include autoclaving, incineration, or chemical treatment with disinfectants such as bleach or ethanol. It is important to follow the safety guidelines established by the laboratory or institution regarding the disposal of hazardous biological materials to ensure that they are properly handled and do not pose a risk to human health or the environment.
+\n\n
+Culture dishes that are not contaminated with hazardous materials can usually be disposed of as regular waste. However, it is still recommended to disinfect the dishes with an appropriate disinfectant solution before disposal to minimize any potential risks.
+</string>
+
+    <string name="article_syringes">Syringes </string>
+    <string name="syringe_paragraph">Used syringes are medical devices that have been used to inject medication or draw blood from a person. They can pose a serious health risk if not disposed of properly, as they may be contaminated with infectious materials such as viruses, bacteria, and blood-borne pathogens.
+\n\n
+To dispose of used syringes safely, you should follow these guidelines: \n\n
+Place the used syringe in a puncture-resistant container, such as a sharps container, immediately after use.
+\n\n
+Do not recap the syringe, bend or break the needle, or remove the needle from the syringe by hand. This can increase the risk of accidental needle sticks and exposure to infectious materials.
+\n\n
+Once the sharps container is full, seal it with tape and label it as <b>Used Sharps</b> or <b>Biohazardous Waste.</b>
+        \n\n
+Contact your local health department or waste management facility to find out how to properly dispose of the container.
+\n\n
+Do not throw used syringes in the trash or recycling bin, as this can create a health hazard for waste management workers and the general public.
+
+      \n \n \n By following these guidelines, you can help prevent the spread of infectious diseases and ensure that used syringes are disposed of safely and responsibly.
+</string>
+
+    <string name="article_bandages">Bandages </string>
+    <string name="bandages_paragraph">Used bandages are pieces of fabric or adhesive material that have been applied to cover and protect a wound or injury. They may contain blood, bodily fluids, or other potentially infectious materials and should be disposed of properly to prevent the spread of infection.\n\n
+\n
+Here are some guidelines for disposing of used bandages:
+        \n\n
+-First, remove the bandage carefully and place it in a plastic bag or container.\n\n
+\n-If the bandage contains any bodily fluids or blood, it should be considered biohazardous waste and disposed of accordingly.\n
+-Seal the bag or container securely and label it as biohazardous waste.\n\n
+-Dispose of the bag or container in a garbage bin designated for medical waste or contact your local waste management authority for guidance on proper disposal.\n
+\n-If the bandage does not contain any bodily fluids or blood, it can be disposed of in the regular trash.
+\n
+\n\nIt is important to note that the specific guidelines for disposing of used bandages may vary depending on your location and local regulations. It is always best to check with your local waste management authority for guidance on proper disposal procedures.
+</string>
+
+    <string name="article_dvd">DVDs </string>
+    <string name="dvd_paragraph">DVDs (Digital Versatile Discs) are a type of optical disc used for storing digital data, including movies, music, and software programs. They are similar in appearance to CDs (Compact Discs), but can store much more information due to their higher capacity.
+\n\nWhen it comes to disposing of DVDs, it is important to consider the environmental impact. DVDs are made of polycarbonate plastic, which can take hundreds of years to decompose in a landfill. Therefore, it is important to recycle them properly.
+\n\nIn some areas, DVDs can be recycled through curbside recycling programs. If your local recycling program does not accept DVDs, you can try to find a nearby recycling center that accepts them. Some retailers that sell DVDs, such as Best Buy, also offer recycling programs for old DVDs.
+\n\nIf your DVDs are still usable, consider donating them to a local library, school, or charity. Alternatively, you could try to sell them or give them away to someone who might want them.
+\n\nIf you have sensitive information on your DVDs, make sure to shred them or use a disc eraser to ensure that the information cannot be retrieved by others.</string>
+
+    <string name="article_hraddive">Hard Drives </string>
+    <string name="harddrive_paragraph">A hard drive is a component of a computer that stores and retrieves digital data. It consists of one or more metal disks coated with a magnetic material that can be magnetized or demagnetized to store information. The disks rotate at high speeds while a read/write head accesses the data.
+\n\nWhen disposing of a hard drive, it is important to ensure that any sensitive or confidential data stored on it is securely erased to prevent unauthorized access or data breaches. Simply deleting files or formatting the drive is not enough, as the data can still be recovered using specialized software.
+\n\nThere are several ways to securely dispose of a hard drive, including:
+\n\nPhysical destruction: Physically destroying the hard drive by shredding, crushing, or drilling holes through it can ensure that the data is irretrievable. This can be done by specialized companies or with the proper tools.
+\n\nData wiping: Data wiping involves overwriting the entire hard drive with random data multiple times to ensure that the original data is unrecoverable. There are various software tools available to perform this task, and it is important to choose one that is certified for secure data erasure.
+\n\nDegaussing: Degaussing involves exposing the hard drive to a powerful magnetic field that erases all the data on the drive. This method is generally only effective for older hard drives that use magnetic storage.
+\n\nRegardless of the method chosen, it is important to ensure that the hard drive is disposed of responsibly, either by recycling it or disposing of it in accordance with local regulations.</string>
+
+    <string name="article_cables">Cords and Cables </string>
+    <string name="cables_paragraph">Cords and cables are typically made of various materials, such as plastic, rubber, copper, and aluminum, and are used to connect electronic devices, power sources, and other equipment.
+        \n\n
+\n\nWhen it comes to disposing of cords and cables, the best approach depends on the specific material and any potential environmental impact. Here are some general tips:
+\n\nDo not throw cords and cables in the trash: Throwing cords and cables in the regular trash can lead to environmental problems, including pollution and potential harm to wildlife.
+\n\nRecycle cords and cables: Many communities have electronic recycling programs that will accept cords and cables for recycling. Check with your local government or recycling center to see if they offer this service.
+\n\nDonate cords and cables: If your cords and cables are still in good condition, consider donating them to a local charity or community organization. Many schools and community centers may be in need of electronic equipment and accessories.
+\n\nReuse cords and cables: If you have cords and cables that are still in good condition, consider repurposing them for another use. For example, you can use an old charging cable to connect your phone or tablet to your computer.
+\n\nOverall, it is important to dispose of cords and cables responsibly to minimize their impact on the environment.</string>
+
+    <string name="article_asphalt">Asphalt </string>
+    <string name="asphalt_paragraph">Asphalt is a mixture of aggregates, such as sand and gravel, and a binder, typically made from petroleum byproducts. It is commonly used in the construction of roads, driveways, parking lots, and other surfaces that need to be durable and able to withstand heavy traffic.
+\n\nWhen asphalt needs to be disposed of, it is typically sent to an asphalt recycling facility. There, the asphalt is broken down and separated from any contaminants that may be present, such as rocks, debris, or other materials. The clean asphalt is then processed and used to make new asphalt pavement or other products.
+\n\nIf the asphalt cannot be recycled, it may be sent to a landfill. However, it is important to note that asphalt is a valuable material that should be recycled whenever possible, as it is both expensive and environmentally harmful to produce new asphalt from scratch.</string>
+
+    <string name="article_plaster">Plaster </string>
+    <string name="plaster_paragraph">Construction plaster, also known as gypsum plaster, is a building material used for coating walls and ceilings. It is made from gypsum, a soft sulfate mineral, which is ground into a fine powder and mixed with water to create a paste. The paste is then applied to the surface of the wall or ceiling and allowed to dry, creating a smooth and hard surface.
+\n\nWhen it comes to disposing of construction plaster, it is important to do so properly. Here are a few guidelines:
+        \n\n<b> Reuse it:</b> If the plaster is in good condition and not contaminated, it can be reused. You can break it up into small pieces and mix it with new plaster to create a new batch.
+        \n\n<b> Recycle it:</b>  Gypsum can be recycled into new plasterboard or drywall. Check with your local recycling center to see if they accept construction plaster.
+        \n\n<b> Landfill it:</b> If you cannot reuse or recycle the plaster, it can be disposed of in a landfill. However, it is important to note that gypsum takes a long time to break down in landfills, so it is not the most environmentally-friendly option.
+        \n\n<b>Hazardous waste: </b> If the plaster is contaminated with hazardous materials such as lead or asbestos, it must be disposed of as hazardous waste. Check with your local authorities for proper disposal methods.</string>
+
+    <string name="article_concrete">Concrete </string>
+    <string name="concrete_paragraph">Concrete is a mixture of cement, sand, gravel, and water that hardens into a strong and durable material. It is widely used in construction for building foundations, walls, floors, sidewalks, and other structures.
+\n\nWhen disposing of concrete, it is important to do so in an environmentally responsible manner. Here are some ways to dispose of concrete:
+    \n\nRecycling: Crushed concrete can be reused as a base material for new construction projects or as a substitute for gravel or stone in landscaping projects.
+    \n\nLandfills: Concrete can be disposed of in a landfill, but it should be broken down into small pieces to reduce its volume and make it easier to handle.
+    \n\nDonating: If the concrete is in good condition, it can be donated to local organizations or community projects that may have a use for it.
+    \n\nRepurposing: Concrete can be repurposed into creative and functional items such as benches, tables, and garden decorations.
+\n\nIt is important to check with local authorities and waste management facilities for specific guidelines and regulations regarding concrete disposal in your area.</string>
+
+    <string name="article_nailclippings">Nail Clippings </string>
+    <string name="nailclippings_paragraph">Nail clippings are small pieces of keratinized tissue that are trimmed from the edges of fingernails or toenails using nail clippers or scissors. These nail clippings are made up of the same material as hair and hooves and are essentially dead cells that have been pushed out of the nail bed.
+\n\nRepurposing nail clippings may not be a common practice, but here are some ideas:
+\n\nFertilizer: As nail clippings are high in nitrogen, they can be used as a natural fertilizer for plants. Simply crush the nail clippings into small pieces and mix them into the soil.
+\n\nArt and craft: Nail clippings can be used as a unique medium for art and craft projects. For example, they can be used to create intricate mosaics or used as a substitute for beads in jewelry making.
+\n\nComposting: Nail clippings can be added to a compost pile to provide an additional source of nutrients for the soil.
+\n\nAnimal feed: In some cultures, nail clippings are given to animals as a source of protein.
+\n\nIt is important to note that nail clippings should be cleaned and sterilized before being repurposed, especially if they are being used for medical or personal hygiene purposes.</string>
+
+    <string name="article_eggshells">Eggshells </string>
+    <string name="eggshells_paragraph">Eggshells are the outer protective layer that surrounds an egg. They are primarily composed of calcium carbonate, which makes them strong and durable.
+\n\nThere are several ways to repurpose eggshells instead of throwing them away. Here are a few examples:
+  \n\n      \<b> Fertilizer:</b> Crushed eggshells can be added to compost or used as a natural fertilizer for plants. They contain essential nutrients like calcium, magnesium, and potassium that can benefit the soil.
+    \n\n    <b> Pest control:</b> Eggshells can help control pests in the garden. Crushed eggshells can be sprinkled around plants to deter slugs and snails, who don not like the sharp edges of the shells.
+      \n\n  <b> Household cleaner:</b> Crushed eggshells can be used as a natural abrasive to clean pots, pans, and other household items. They can also be added to vinegar to create an all-purpose cleaner.
+     \n\n   <b> Art projects:</b> Eggshells can be used in art projects like mosaics or sculptures. They can be painted, dyed, or glued together to create unique pieces.
+      \n\n  <b> Calcium supplement: </b>Crushed eggshells can be consumed as a natural source of calcium. They can be added to smoothies, baked goods, or sprinkled over food.
+\n\n\nThese are just a few examples of how eggshells can be repurposed. With a little creativity, there are many other ways to use this versatile and sustainable material.
+</string>
+
+    <string name="article_fruits">Fruits </string>
+    <string name="fruits_paragraph">Fruits are a type of edible plant material that typically contain seeds and are usually sweet or tart in taste. They are an excellent source of vitamins, minerals, and fiber, and are an important part of a healthy diet. Some examples of fruits include apples, bananas, oranges, grapes, berries, and melons.
+When it comes to repurposing fruit waste, there are a few different approaches you can take depending on the type of waste you have:
+        \n\n<b> Composting:</b> One of the most common ways to repurpose fruit waste is by composting it. Fruit peels, cores, and other scraps can be added to a compost pile or bin along with other organic material like leaves, grass clippings, and vegetable scraps. Over time, the compost will break down into a nutrient-rich soil amendment that can be used in gardens and landscaping.
+    \n\n<b> Juicing: </b> Another way to repurpose fruit waste is by juicing it. Fruit peels and other scraps can be put through a juicer to extract the juice, which can be used in a variety of recipes. The leftover pulp can also be used in baking or cooking as a source of fiber.
+\nv    <b> Infusing:</b> Fruit scraps can also be used to infuse flavor into other foods and drinks. For example, fruit peels can be added to vinegar or oil to create flavored dressings or marinades, or they can be added to water to create a refreshing infused water.
+  \n\n  <b> Snacks: </b>Fruit waste can also be repurposed into snacks. Fruit peels can be dried and turned into fruit chips or used to make candied fruit peels.
+  \n\n  <b>Animal feed: </b>If you have livestock or pets, fruit waste can be repurposed as animal feed. Many types of animals, including chickens, pigs, and rabbits, can eat fruit scraps and benefit from the vitamins and minerals they contain.
+\n\nOverall, repurposing fruit waste can help reduce food waste and benefit the environment by reducing the amount of organic material sent to landfills.</string>
 </resources>
