@@ -12,6 +12,90 @@
         android:theme="@style/Theme.RecyclingApp"
         tools:targetApi="31">
         <activity
+            android:name=".Fruits"
+            android:exported="false" />
+        <activity
+            android:name=".Eggshells"
+            android:exported="false" />
+        <activity
+            android:name=".NailClippings"
+            android:exported="false" />
+        <activity
+            android:name=".Concrete"
+            android:exported="false" />
+        <activity
+            android:name=".Plaster"
+            android:exported="false" />
+        <activity
+            android:name=".Asphalt"
+            android:exported="false" />
+        <activity
+            android:name=".Cords"
+            android:exported="false" />
+        <activity
+            android:name=".HardDrive"
+            android:exported="false" />
+        <activity
+            android:name=".DVDs"
+            android:exported="false" />
+        <activity
+            android:name=".Bandages"
+            android:exported="false" />
+        <activity
+            android:name=".Syringes"
+            android:exported="false" />
+        <activity
+            android:name=".Batteries"
+            android:exported="false" />
+        <activity
+            android:name=".CultureDishes"
+            android:exported="false" />
+        <activity
+            android:name=".Aerosol"
+            android:exported="false" />
+        <activity
+            android:name=".Battery"
+            android:exported="false" />
+        <activity
+            android:name=".Gasoline"
+            android:exported="false" />
+        <activity
+            android:name=".PaperCardboards"
+            android:exported="false" />
+        <activity
+            android:name=".GlassJar"
+            android:exported="false" />
+        <activity
+            android:name=".Paper"
+            android:exported="false" />
+        <activity
+            android:name=".MetalCans"
+            android:exported="false" />
+        <activity
+            android:name=".PlasticBottles"
+            android:exported="false" />
+        <activity
+            android:name=".GreenWasteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ConstructionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElectricalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MedicalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HazardousActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecyclableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+        <activity
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity
