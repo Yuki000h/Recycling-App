@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/paper_paragraph"
-            android:id="@+id/metalcans_paragraph"
+            android:id="@+id/paragraph"
             android:lineSpacingExtra="5sp"
             android:padding="@dimen/padding"/>
 

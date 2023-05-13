@@ -19,6 +19,8 @@ public class HazardousActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hazardous);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         CardView gasolineCard = findViewById(R.id.gasoline_card);
         gasolineCard.setOnClickListener(new View.OnClickListener() {
             @Override

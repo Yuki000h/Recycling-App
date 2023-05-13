@@ -52,6 +52,7 @@
             android:exported="false" />
         <activity
             android:name=".Aerosol"
+            android:parentActivityName=".HazardousActivity"
             android:exported="false" />
         <activity
             android:name=".Battery"
@@ -73,24 +74,31 @@
             android:exported="false" />
         <activity
             android:name=".PlasticBottles"
+            android:parentActivityName=".RecyclableActivity"
             android:exported="false" />
         <activity
             android:name=".GreenWasteActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".ConstructionActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".ElectricalActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".MedicalActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".HazardousActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".RecyclableActivity"
+            android:parentActivityName=".DashboardActivity"
             android:exported="false" />
         <activity
             android:name=".DashboardActivity"
