@@ -98,7 +98,7 @@ public class FormActivity extends AppCompatActivity {
                     loginName.setError(null);
                     String passwordFromDB = snapshot.child(userUserName).child("password").getValue(String.class);
 
-                    if (!Objects.equals(passwordFromDB, userPassword)) {
+                    if (Objects.equals(passwordFromDB, userPassword)) {
                         loginName.setError(null);
                         Intent intent = new Intent(FormActivity.this, DashboardActivity.class);
                         startActivity(intent);

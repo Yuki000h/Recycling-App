@@ -118,7 +118,7 @@ public class ChatFragment extends AppCompatActivity {
         RequestBody body = RequestBody.create(objectJSON.toString(), JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/chat/completions")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", "Bearer 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")
                 .post(body)
                 .build();
 
