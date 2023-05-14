@@ -5,11 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Message;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -45,6 +47,8 @@ public class ChatFragment extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chat_fragment);
 
+        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         recyclerView = findViewById(R.id.chat_rv);
         txtWelcome = findViewById(R.id.txtWelcome);
         edtMessage = findViewById(R.id.message_edit_text);
@@ -66,6 +70,15 @@ public class ChatFragment extends AppCompatActivity {
                 apiCaller(question);
                 edtMessage.setText("");
                 txtWelcome.setVisibility(View.GONE);
+            }
+        });
+
+        ImageView dashbaordBttn = findViewById(R.id.dashboard_button);
+        dashbaordBttn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ChatFragment.this, DashboardActivity.class);
+                startActivity(intent);
             }
         });
     }
@@ -105,7 +118,7 @@ public class ChatFragment extends AppCompatActivity {
         RequestBody body = RequestBody.create(objectJSON.toString(), JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/chat/completions")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", "Bearer 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")
                 .post(body)
                 .build();
 

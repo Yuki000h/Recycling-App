@@ -20,7 +20,7 @@ public class RecyclableActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recyclable);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
 
         CardView recyclableCard = findViewById(R.id.plasticbttl_card);

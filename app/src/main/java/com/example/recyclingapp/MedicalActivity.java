@@ -18,7 +18,7 @@ public class MedicalActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_medical);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
         CardView culturedishesCard = findViewById(R.id.culturedishes_card);
         culturedishesCard.setOnClickListener(new View.OnClickListener() {

@@ -19,7 +19,6 @@ public class ConstructionActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_construction);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         CardView asphaltCard = findViewById(R.id.asphalt_card);
         asphaltCard.setOnClickListener(new View.OnClickListener() {

@@ -19,7 +19,6 @@ public class GreenWasteActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_green_waste);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         CardView nailclippingsCard = findViewById(R.id.nail_card);
         nailclippingsCard.setOnClickListener(new View.OnClickListener() {

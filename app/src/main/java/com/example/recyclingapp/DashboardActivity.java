@@ -6,6 +6,7 @@ import androidx.cardview.widget.CardView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 
 public class DashboardActivity extends AppCompatActivity {
 
@@ -13,6 +14,15 @@ public class DashboardActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashboard);
+
+        ImageView aiChat = findViewById(R.id.chat_button);
+        aiChat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(DashboardActivity.this, ChatFragment.class);
+                startActivity(intent);
+            }
+        });
 
         CardView recyclableCard = findViewById(R.id.recyclable_card);
         recyclableCard.setOnClickListener(new View.OnClickListener() {

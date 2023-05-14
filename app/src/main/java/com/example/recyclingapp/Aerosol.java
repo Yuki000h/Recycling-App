@@ -9,7 +9,7 @@ public class Aerosol extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aerosol);
 
-        getActionBar().setDisplayHomeAsUpEnabled(true);
+
 
     }
 }

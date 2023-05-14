@@ -100,7 +100,7 @@ public class FormActivity extends AppCompatActivity {
 
                     if (!Objects.equals(passwordFromDB, userPassword)) {
                         loginName.setError(null);
-                        Intent intent = new Intent(FormActivity.this, ChatFragment.class);
+                        Intent intent = new Intent(FormActivity.this, DashboardActivity.class);
                         startActivity(intent);
                     } else {
                         loginPassword.setError("Invalid Credentials");

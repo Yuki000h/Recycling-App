@@ -19,7 +19,7 @@ public class ElectricalActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_electrical);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
         CardView dvdsCard = findViewById(R.id.dvd_card);
         dvdsCard.setOnClickListener(new View.OnClickListener() {
