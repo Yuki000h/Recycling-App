@@ -13,7 +13,7 @@ This application is developed for an informative way of catering people how to m
 
 Remarks:
 The API key might be disrupted due to incorrect key, changes in the API key must be followed:
-1.Log into Openai
+/n1.Log into Openai
 2.Click personal from the upper right corner with your profile
 3.Click API keys
 4.Generate API key
